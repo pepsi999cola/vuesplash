@@ -23,5 +23,5 @@ const mix = require('laravel-mix');
     files: [
       'resources/views/**/*.blade.php',
       'public/**/*.*',
-    ],
+    ]
   });
